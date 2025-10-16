@@ -5,6 +5,6 @@
     <title>Submitted Data</title>
   </head>
   <body>
-    Your day is <?php echo $_GET["prompt"] ?> today. What will it be like tomorrow>
+    <p>Your day is <?php echo $_GET["prompt"] ?> today. What will it be like tomorrow? </p>
   </body>
 </html>
